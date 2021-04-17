@@ -14,7 +14,6 @@ body{
 header{
      background-image:url(hatter.jpg) ;
      background-repeat: no-repeat;
-}
-#lotto{
-     padding: 50%;
+     height: 200px;
+     width: 200px;
 }
