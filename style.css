@@ -17,3 +17,12 @@ header{
      height: 600px;
      width: 700px;
 }
+
+.golyo {
+     width: 50%;
+     height: auto;
+ }
+.golyo img {
+     width: 15%;
+     height: auto;
+ }
