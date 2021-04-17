@@ -40,7 +40,12 @@ header{
      padding: 8px; 
      text-align:center;
      border-radius: 50%; width: 100px;
+
+ }
+    
+ #lotto{
      padding-top: 250px;
      padding-left: 250px;
      font-size: 80px;
-     text-shadow: 2px 2px #000;}  
+     text-shadow: 2px 2px #000;
+     }
