@@ -6,11 +6,12 @@ hey
 seherezádé
 gedzsa lábak
 
-Kíváncsi vagyok, hogy igaz vagyok-e
-Szólok az igazamról, vagy kiszűröm, hogyan érzem magam?
-Vajon nem lenne szép
-Olyan világban élni, amely nem fekete-fehér?
-Kíváncsi vagyok, milyen a barátaimnak lenni
-Remélem, hogy nem gondolják, hogy elfelejtem őket
-Kíváncsi vagyok
-Kíváncsi vagyok
+
+De mi van, ha én, mi van, ha elutazom?
+Mi van, ha én, mi van, ha elesem?
+Akkor én vagyok a szörnyeteg?
+Csak szóljatok
+És mi van, ha én, mi van, ha vétek?
+És mi van, ha én, mi van, ha eltörök? Igen
+Akkor én vagyok a szörnyeteg? Igen
+Csak szólj nekem, igen, igen, igen, igen
