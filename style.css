@@ -11,3 +11,7 @@ body{
 .feher{
      color: white;
 }
+header{
+     background-image:url(hatter.jpg) ;
+     background-repeat: no-repeat;
+}
