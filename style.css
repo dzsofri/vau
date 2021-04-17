@@ -31,12 +31,7 @@ header{
      float: right;
 
  }
-
- #lotto{
-      padding-top: 250px;
-      padding-left: 250px;
-      font-size: 80px;
-      text-shadow: 2px 2px #000;
+    
  }
  #kör{border:1px solid green;
      background-color: green; 
@@ -44,4 +39,8 @@ header{
      width: 150px; height: 100px; 
      padding: 8px; 
      text-align:center;
-     border-radius: 50%; width: 100px;}  
+     border-radius: 50%; width: 100px;
+     padding-top: 250px;
+     padding-left: 250px;
+     font-size: 80px;
+     text-shadow: 2px 2px #000;}  
