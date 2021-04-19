@@ -35,17 +35,7 @@ position: relative;
     
 }
 
-.golyo {
-     width: 40px;
-     height: 20px;
-     
- }
-.golyo img {
-     width: 150px;
-     height: 150;
-     margin: auto;
-   
- }
+
 
  
     
@@ -91,28 +81,18 @@ position: relative;
    padding-top: 20px;
      padding-left: 100px;
      font-size: 40px;
-     float: right;
+     float:right
      
  
-  }
+  }*/
 
-  .golyo2{
-     width: 40px;
-     height: 20px;
-     
-  }
-  .golyo2 img {
-     height: 150px;
-     width: auto;
-     display: inline block;
-     margin: auto;
-     
-    
+  .golyo {
+     width: 100px;
+     height: 60px;
  }
-
  
- #korabbi{
-     float: right;
-
-      padding-left: 200px;
+ /* Resize images */
+ .golyo img {
+     width: 15%;
+     height: auto;
  }
