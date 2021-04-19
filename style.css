@@ -45,7 +45,8 @@ position: relative;
      color:#ffffff;
      width: 200px; height: 65px;
     
-
+ font-size: 70px;
+     text-shadow: 2px 2px #000;
      text-align:center;
     border-radius: 100%; width: 65px;
      padding-left: 20%;
@@ -80,7 +81,7 @@ position: relative;
  }
 
  .jobb{
-     width: 40cm;
+     width: 25cm;
    padding-top: 20px;
      padding-left: 100px;
      font-size: 40px;
@@ -94,8 +95,12 @@ position: relative;
      height: 60px;
  }
  
- /* Resize images */
+ 
  .golyo img {
      width: 15%;
      height: auto;
+ }
+ a{
+     text-decoration-line: none;
+     color: white;
  }
