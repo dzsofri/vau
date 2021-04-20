@@ -104,3 +104,19 @@ position: relative;
      text-decoration-line: none;
      color: white;
  }
+
+ #p1{
+    word-spacing: 97px;
+    padding-left: 60px;
+    position: absolute;
+    left: 900px;
+    top: 355px;
+ }
+
+ #p2{
+    word-spacing: 97px;
+    padding-left: 60px;
+    position: absolute;
+    left: 900px;
+    top: 675px;
+ }
