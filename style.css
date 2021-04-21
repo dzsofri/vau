@@ -82,9 +82,10 @@ position: relative;
  .jobb{
      width: 25cm;
    padding-top: 20px;
-     padding-left: 100px;
+     padding-right: 600px;
      font-size: 40px;
      float:right
+     
      
  
   }*/
@@ -105,19 +106,32 @@ position: relative;
  }
 
  #p1{
-    word-spacing: 97px;
-    padding-left: 60px;
+
     position: absolute;
-    left: 900px;
-    top: 355px;
+    
+   word-spacing: 97px;
+    width: 25cm;
+    padding-top:10px;
+      padding-left: 50px;
+      font-size: 40px;
+      float:right 
+
+      
+      
  }
 
  #p2{
-    word-spacing: 97px;
-    padding-left: 60px;
+  
     position: absolute;
-    left: 900px;
-    top: 808px;
+    
+   word-spacing: 97px;
+    width: 25cm;
+    padding-top:10px;
+      padding-left: 50px;
+      font-size: 40px;
+      float:right 
+
+    
  }
 
  
