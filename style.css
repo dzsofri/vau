@@ -1,16 +1,23 @@
 
 html{
-     margin:0;
-     padding:0;
-     height:100%;
+     position:fixed;
+     top:0;
+     bottom:0;
+     left:0;
+     right:0;
+     height: 100%;
+width: 1920px;
      }
      
 body{
      font-family: Arial, Helvetica, sans-serif;
-     width: 100%;
-      margin:0;
-     padding:0;
-     height:100%;
+    position:fixed;
+          top:0;
+          bottom:0;
+          left:0;
+          right:0;
+          height: 100%;
+width: 1920px;
     
 }
 
@@ -92,7 +99,7 @@ position: relative;
  .jobb{
      width: 25cm;
    padding-top: 20px;
-     padding-right: 600px;
+     padding-right: 100px;
      font-size: 40px;
      float:right
      
