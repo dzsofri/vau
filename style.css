@@ -75,7 +75,7 @@ width: 1920px;
  .jobb{
      width: 25cm;
    padding-top: 20px;
-     padding-right: 100px;
+     padding-right: 250px;
      font-size: 40px;
      float:right
      
@@ -83,7 +83,8 @@ width: 1920px;
  
   }*/
 
-  .golyo {
+ 
+   .golyo {
      width: 100px;
      height: 60px;
  }
@@ -130,8 +131,8 @@ width: 1920px;
     
      background-image:url(hatter.jpg) ;
      background-repeat: no-repeat;
-    height: 600px;
-     width: 700px;
+    height: 500px;
+     width: 600px;
 position: relative;
      border: top left radius 30px; ;
     
@@ -139,7 +140,7 @@ position: relative;
  
 sidebar-left {
      height: 100%;
-     width: 700px;
+     width: 600px;
      position: fixed;
      z-index: 1;
      top: 100;

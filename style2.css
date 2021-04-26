@@ -1,133 +1,183 @@
-
-     html{
-          position:fixed;
+html{
+     position:fixed;
+     top:0;
+     bottom:0;
+     left:0;
+     right:0;
+     height: 100%;
+     width: 1920px;
+     }
+     
+body{
+     font-family: Arial, Helvetica, sans-serif;
+    position:fixed;
           top:0;
           bottom:0;
           left:0;
           right:0;
           height: 100%;
-          width: 1920px;
-          }
-          
-     body{
-          font-family: Arial, Helvetica, sans-serif;
-         position:fixed;
-               top:0;
-               bottom:0;
-               left:0;
-               right:0;
-               height: 100%;
-     width: 1920px;
-         
-     }
-     
-     
-     
-     .feher{
-          color: white;
-          
-     }
-     
-     
-     
-     .lottó{
-          font-size: 80px;
-          text-shadow: 2px 2px #000;
-        margin:auto;
-        text-align: center;
-         }
-      
-      #kör{border:1px solid x00965E;
-          background-color: #00965E; 
-          color:#ffffff;
-          width: 200px; height: 100px;
-         
-     
-          text-align:center;
-         border-radius: 100%; width: 150px;
-          padding-left: 10%;
-          padding-right: 30%;
-         padding-bottom: 20%;
-         padding-top: 20%; 
-     
-          border-radius: 100%; width: 90px; 
-          
-          
-          
-        
-     
-      }
-         
-      
-          
-      
-      .koreslotto{
-          padding-top: 150px;
-          padding-left: 150px;
-      }
-     
-      .bal{
-           
-         
-         float: left;
-      }
-
-      .jobb{
-          width: 25cm;
-        padding-top: 20px;
-          padding-right: 100px;
-          font-size: 40px;
-          float:right
-          
-      header{
+width: 1920px;
     
-          background-image:url(hatter.jpg) ;
-          background-repeat: no-repeat;
-         height: 600px;
-          width: 700px;
-     position: relative;
-          border: top left radius 30px; ;
-         
-     }
+}
+
+
+
+.feher{
+     color: white;
+     
+}
+
+
+
+.lottó{
+     font-size: 80px;
+     text-shadow: 2px 2px #000;
+   margin:auto;
+   text-align: center;
+    }
+ 
+ #kör{border:1px solid x00965E;
+     background-color: #00965E; 
+     color:#ffffff;
+     width: 200px; height: 100px;
+    
+
+     text-align:center;
+    border-radius: 100%; width: 150px;
+     padding-left: 10%;
+     padding-right: 30%;
+    padding-bottom: 20%;
+    padding-top: 20%; 
+
+     border-radius: 100%; width: 90px; 
+     
+     
+     
+   
+
+ }
+    
+ 
+     
+ 
+ .koreslotto{
+     padding-top: 150px;
+     padding-left: 150px;
+ }
+
+ .bal{
       
-     sidebar-left {
-          height: 100%;
-          width: 700px;
-          position: fixed;
-          z-index: 1;
-          top: 100;
-          left: 1;
-         /* background-color: #424242;*/
-          overflow-x: hidden;
+    
+    float: left;
+ }
+
+ .jobb{
+     width: 25cm;
+   padding-top: 60px;
+     padding-right: 250px;
+     font-size: 40px;
+     float:right
+     
+     
+ 
+  }*/
+
+ 
+ 
+ 
+sidebar-left {
+     height: 100%;
+     width: 500px;
+     position: fixed;
+     z-index: 1;
+     top: 100;
+     left: 1;
+    /* background-color: #424242;*/
+     overflow-x: hidden;
+    
+   }
+   
+   sidebar-left a {
+     padding: 6px 8px 6px 16px;
+     text-decoration: none;
+     font-size: 25px;
+     color: #f1f1f1;
+     display: block;
+   }
+   
+   sidevar-left a:hover {
+     color: #f1f1f1;
+   }
+   
+.tablazat{
+     border: solid;
+     background-color:#424242;
+     border-color: #424242;
+     width:600px;
+     height:500px;
+     padding-left: 30px;
+     padding-right: 30px;
+     
+}
+
+td{
+     border-bottom: groove
+     #777777
+     
+}
+header{
+    
+     background-image:url(hatter.jpg) ;
+     background-repeat: no-repeat;
+    height: 500px;
+     width: 600px;
+position: relative;
+     border: top left radius 30px; ;
+    
+}
+
+
+
+
+.szam{
+     position: absolute;
+     word-spacing: 97px;
+    font-size: 35px;
+    padding-left: 215px;
+     padding-top: 97px;
+     font-weight: bold;
+}
+
+ 
+ 
+ .golyo {
+     width: 150px;
+     height: auto;
+     padding-left: 150px;
+     padding-top: 80px;
+     }
+
+     .hashtag{
+          position: absolute;
+          word-spacing: 97px;
+         font-size: 100px;
+     }
+
+     .huszonkilenc{
+          position: absolute;
+          word-spacing: 97px;
+         font-size: 35px;
+         padding-left: 207px;
+          padding-top: 97px;
+         font-weight: bold;
+     }
+
+     .db{
+          position: absolute;
          
-        }
-        
-        sidebar-left a {
-          padding: 6px 8px 6px 16px;
-          text-decoration: none;
-          font-size: 25px;
-          color: #f1f1f1;
-          display: block;
-        }
-        
-        sidevar-left a:hover {
-          color: #f1f1f1;
-        }
-        
-     .tablazat{
-          border: solid;
-          background-color:#424242;
-          border-color: #424242;
-          width:700px;
-          height:500px;
-          padding-left: 30px;
-          padding-right: 30px;
-          
+         font-size: 70px;
+         padding-left: 400px;
+         padding-top: 45px;
+
      }
      
-     td{
-          border-bottom: groove
-          #777777
-          
-     }
-         
