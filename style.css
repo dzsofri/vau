@@ -21,37 +21,13 @@ width: 1920px;
     
 }
 
-.tablazat{
-     border: solid;
-     background-color:#424242;
-     border-color: #424242;
-     width:700px;
-     height:400px;
-     padding-left: 30px;
-     padding-right: 30px;
-     
-}
 
-td{
-     border-bottom: groove
-     #777777
-     
-}
 
 .feher{
      color: white;
      
 }
-header{
-    
-     background-image:url(hatter.jpg) ;
-     background-repeat: no-repeat;
-    height: 600px;
-     width: 700px;
-position: relative;
-     border: top left radius 30px; ;
-    
-}
+
 
 
 .lottó{
@@ -150,5 +126,54 @@ position: relative;
 
     
  }
-
+ header{
+    
+     background-image:url(hatter.jpg) ;
+     background-repeat: no-repeat;
+    height: 600px;
+     width: 700px;
+position: relative;
+     border: top left radius 30px; ;
+    
+}
  
+sidebar-left {
+     height: 100%;
+     width: 700px;
+     position: fixed;
+     z-index: 1;
+     top: 100;
+     left: 1;
+    /* background-color: #424242;*/
+     overflow-x: hidden;
+    
+   }
+   
+   sidebar-left a {
+     padding: 6px 8px 6px 16px;
+     text-decoration: none;
+     font-size: 25px;
+     color: #f1f1f1;
+     display: block;
+   }
+   
+   sidevar-left a:hover {
+     color: #f1f1f1;
+   }
+   
+.tablazat{
+     border: solid;
+     background-color:#424242;
+     border-color: #424242;
+     width:700px;
+     height:500px;
+     padding-left: 30px;
+     padding-right: 30px;
+     
+}
+
+td{
+     border-bottom: groove
+     #777777
+     
+}
