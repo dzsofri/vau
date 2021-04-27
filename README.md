@@ -1,6 +1,7 @@
 # Lotto vau
 https://dzsofri.github.io/vau/
-projektmunka 2020.04.07-
+projektmunka 
+2020.04.07-
 
 
 
