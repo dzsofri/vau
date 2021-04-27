@@ -12,10 +12,10 @@ A navigációs sáv pontjaira rákattintva (linkek segítségével) az aloldalak
 A weblaphoz hozzá tartozó CSS kód megírása
 A megadott golyó.png átszínezése, beillesztése a kódokba
 
-Fejlesztőikörnyezet: Visual Studio Code  
+# Fejlesztőikörnyezet: Visual Studio Code  
 Felépítés:
 Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 1.-nek kell érteni,  így számon lehet követni a továbbiakat, a HTML számozások miatt.                        
-2021.04.14-21
+# 2021.04.14-21
 
 1.rész elkészítése:
   Index_1.html (korábbi sorsolások)
@@ -27,7 +27,7 @@ Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 
   +képek (További szinek)
   
   
-  2021.04.25-26
+# 2021.04.25-26
   
 2.rész elkészítése
    leggyakoribb_2.html (leggyakoribb számok)
@@ -38,7 +38,7 @@ Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 
   +CSS style2.css
   +képek 
   
-   2021.04.27
+# 2021.04.27
   
 3.rész elkészítése
    Leghasonlóbb számok_3.html (leghasonlóbb számok)
