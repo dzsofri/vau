@@ -18,7 +18,7 @@ Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 
 # 2021.04.14-21
 
 **1.rész elkészítése:**
-  Index_1.html (korábbi sorsolások)
+ > Index_1.html (korábbi sorsolások)
     Múlt heti nyerőszámok
     Előző heti nyerőszámok
     navigációs sáv elődje táblázat
@@ -30,7 +30,7 @@ Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 
 # 2021.04.25-26
   
 **2.rész elkészítése**
-   leggyakoribb_2.html (leggyakoribb számok)
+ >  leggyakoribb_2.html (leggyakoribb számok)
     Múlt heti nyerőszámok
     Előző heti nyerőszámok
     navigációs sáv véglegesítése
@@ -41,7 +41,7 @@ Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 
 # 2021.04.27
   
 **3.rész elkészítése**
-   Leghasonlóbb számok_3.html (leghasonlóbb számok)
+  > Leghasonlóbb számok_3.html (leghasonlóbb számok)
     Múlt heti nyerőszámok
     Előző heti nyerőszámok
     Linkek átnevezése
