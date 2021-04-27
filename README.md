@@ -1,6 +1,8 @@
 # Lotto vau
-This site was built using [GitHub Pages](https://dzsofri.github.io/vau/).
+Link: [GitHub Pages](https://dzsofri.github.io/vau/).
+
 projektmunka 
+
 2020.04.07-
 
 
