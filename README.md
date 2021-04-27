@@ -1,9 +1,9 @@
 # Lotto vau
 **Link: [GitHub Pages](https://dzsofri.github.io/vau/).**
  
-** projektmunka **
+**projektmunka**
 
-**2020.04.07- **
+**2020.04.07-**
 
 
 
