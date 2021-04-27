@@ -22,7 +22,9 @@ Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 
     Múlt heti nyerőszámok
     Előző heti nyerőszámok
     navigációs sáv elődje táblázat 
+  >  
   > +CSS stle.css
+  > 
  > +képek (További szinek)
   
   
@@ -33,7 +35,9 @@ Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 
     Múlt heti nyerőszámok
     Előző heti nyerőszámok
     navigációs sáv véglegesítése
+    >
 >  +CSS style2.css
+>
  > +képek 
   
 # 2021.04.27
@@ -43,7 +47,9 @@ Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 
     Múlt heti nyerőszámok
     Előző heti nyerőszámok
     Linkek átnevezése
-    
+ >   
 >  +CSS style3.css
+>  
 >  +képek 
+>  
 > Dokumentáció pontosítása
