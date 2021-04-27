@@ -21,8 +21,7 @@ Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 
  > Index_1.html (korábbi sorsolások)
     Múlt heti nyerőszámok
     Előző heti nyerőszámok
-    navigációs sáv elődje táblázat
-    
+    navigációs sáv elődje táblázat 
   > +CSS stle.css
  > +képek (További szinek)
   
@@ -34,7 +33,6 @@ Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 
     Múlt heti nyerőszámok
     Előző heti nyerőszámok
     navigációs sáv véglegesítése
-    
 >  +CSS style2.css
  > +képek 
   
@@ -48,5 +46,4 @@ Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 
     
 >  +CSS style3.css
 >  +képek 
-  
-  Dokumentáció pontosítása
+> Dokumentáció pontosítása
