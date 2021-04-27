@@ -5,16 +5,17 @@ projektmunka 2020.04.07-
 
 
 # Feladat
-Weblap készítése, melyen bal oldalt navigációs sáv szerepel
+>Weblap készítése, melyen bal oldalt navigációs sáv szerepel
 A navigációs sáv pontjaira rákattintva (linkek segítségével) az aloldalak jelennek meg.
 1 főoldal és 6 aloldal készítése
-     Csak a tartalom változik, a menü állandó
-A weblaphoz hozzá tartozó CSS kód megírása
-A megadott golyó.png átszínezése, beillesztése a kódokba
+    > Csak a tartalom változik, a menü állandó
+>A weblaphoz hozzá tartozó CSS kód megírása
+>A megadott golyó.png átszínezése, beillesztése a kódokba
 
-# Fejlesztőikörnyezet: Visual Studio Code  
-Felépítés:
-Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 1.-nek kell érteni,  így számon lehet követni a továbbiakat, a HTML számozások miatt.                        
+# Fejlesztőikörnyezet: 
+ > Visual Studio Code  
+# Felépítés:
+> Minden CSS fájl számokkal van ellátva (kivéve az első „style.css”, azt 1.-nek kell érteni,  így számon lehet követni a továbbiakat, a HTML számozások miatt.                        
 # 2021.04.14-21
 
 **1.rész elkészítése:**
