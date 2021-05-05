@@ -63,7 +63,7 @@ width: 1200px;
      padding-bottom: 20px;
      padding-left: 150px;
      padding-top: 90px;
-     background: url("") no-repeat scroll left top transparent;
+
  }
 .jobb{
      width: 25cm;
@@ -133,7 +133,7 @@ sidebar-left {
     /* background-color: #424242;*/
      overflow-x: hidden;
      padding-bottom: 40px;
-    
+  
     
    }
    
@@ -168,4 +168,19 @@ td{
      #777777
      
 }
+ 
+#hatter{
+     position: absolute; 
+ 
+      top: 0px; 
+     left: 0px; 
+     z-index: -1;
+    
+     
+     
+}
 
+#hatter img{
+width: 600px;
+height: 500px;
+}
