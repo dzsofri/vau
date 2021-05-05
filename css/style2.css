@@ -184,3 +184,18 @@ td{
 
      }
      
+     #hatter{
+          position: absolute; 
+      
+           top: 0px; 
+          left: 0px; 
+          z-index: -1;
+         
+          
+          
+     }
+     
+     #hatter img{
+     width: 600px;
+     height: 500px;
+     }
