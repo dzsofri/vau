@@ -68,14 +68,14 @@ width: 1200px;
  .koreslotto{
      padding-bottom: 20px;
      padding-left: 150px;
-     padding-top: 90px;
+     padding-top: 160px;
      
  }
 .jobb{
      width: 25cm;
-   padding-top: px;
+  
      font-size: 40px;
-     padding-left: 900px ;
+     padding-left: 750px ;
      }
 
 
@@ -98,9 +98,9 @@ width: 1200px;
 
      .golyo3 {
           width: 25cm;
-        padding-bottom: 1000px;
+        padding-bottom: 1700px;
           font-size: 40px;
-          padding-left: 900px ;
+          padding-left: 750px ;
           
           }
  .golyo3 img {
@@ -118,7 +118,7 @@ width: 1200px;
    word-spacing: 97px;
     width: 25cm;
     padding-top:10px;
-      padding-left: 50px;
+      padding-left: 62px;
       font-size: 40px;
       float:right 
 
@@ -143,71 +143,71 @@ width: 1200px;
   
      position: absolute;
      
-    word-spacing: 97px;
+    word-spacing: 110px;
      width: 25cm;
-     padding-top:50px;
-       padding-left: 50px;
+     padding-top:8px;
+       padding-left: 62px;
        font-size: 40px;
        float:right }
 
-sidebar-left {
-     height: auto;
+       sidebar-left {
+          height: auto;
+          width: 600px;
+          position:fixed;
+          z-index: 1;
+          top: 100;
+          left: 1;
+         /* background-color: #424242;*/
+          overflow-x: hidden;
+          padding-bottom: 400px;
+       
+         
+        }
+        
+        sidebar-left a {
+          padding: 6px 8px 6px 16px;
+          text-decoration: none;
+          font-size: 25px;
+          color: #f1f1f1;
+          display: block;
+         
+        }
+        
+        sidevar-left a:hover {
+          color: #f1f1f1;
+        }
+        
+     .tablazat{
+          border: solid;
+          background-color:#424242;
+          border-color: #424242;
+          width:700px;
+          height:500px;
+          padding-left: 30px;
+          padding-right: 30px;
+          padding-bottom: 50px;
+          font-family: Arial, Helvetica, sans-serif;
+          
+     }
+     
+     td{
+          border-bottom: groove
+          #777777
+          
+     }
+      
+     #hatter{
+          position: absolute; 
+      
+           top: 0px; 
+          left: 0px; 
+          z-index: -1;
+         
+          
+          
+     }
+     
+     #hatter img{
      width: 600px;
-     position:fixed;
-     z-index: 1;
-     top: 100;
-     left: 1;
-    /* background-color: #424242;*/
-     overflow-x: hidden;
-     padding-bottom: 40px;
-    
-    
-   }
-   
-   sidebar-left a {
-     padding: 6px 8px 6px 16px;
-     text-decoration: none;
-     font-size: 25px;
-     color: #f1f1f1;
-     display: block;
-    
-   }
-   
-   sidevar-left a:hover {
-     color: #f1f1f1;
-   }
-   
-.tablazat{
-     border: solid;
-     background-color:#424242;
-     border-color: #424242;
-     width:700px;
-     height:500px;
-     padding-left: 30px;
-     padding-right: 30px;
-     padding-bottom: 50px;
-     font-family: Arial, Helvetica, sans-serif;
-     
-}
-
-td{
-     border-bottom: groove
-     #777777
-     
-}
-
-#hatter{
-     position: absolute; 
- 
-      top: 0px; 
-     left: 0px; 
-     z-index: -1;
-    
-     
-     
-}
-
-#hatter img{
-width: 600px;
-height: 500px;
-}
+     height: 500px;
+     }
