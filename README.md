@@ -1,5 +1,6 @@
 # Lotto vau
-**Link: [GitHub Pages](https://dzsofri.github.io/vau/index_1).**
+**Link: [GitHub Pages](https://dzsofri.github.io/vau/
+index_1).**
  
 **projektmunka**
 
