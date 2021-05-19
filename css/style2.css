@@ -1,201 +1,138 @@
-html{
-     top:0;
-     bottom:0;
-     left:0;
-     right:0;
-     height: 100%;
-     width: 1200px;
-     }
-     
+#nav {
+  position: fixed;
+  left: 0;
+  width: 25%;
+  height: 100%;
+  background-color: #424242;
+  
+}
+#nav img {
+  width: 100%;
+  position: absolute;
+  top: 0px; 
+left: 0px; 
+z-index: -1;
+}
+#nav td {
+  height: 40px; 
+  border-bottom: #777777  groove;
+  padding: 0 0 0 20px;
+  width: 20%;
+  
+  
+}
+#nav td a {
+  text-decoration: none;
+  color: white;
+}
+#main {
+  position: fixed;
+  right: 0;
+  height: 100%;
+  width: 75%;
+}
 body{
-     font-family: Arial, Helvetica, sans-serif;
-          top:0;
-          bottom:0;
-          left:0;
-          right:0;
-          height: 100%;
-width: 1200px;
-    
+  width: 100%;
 }
 
 
 
-.feher{
-     color: white;
-     
+.menu {
+    width: 25%;
+    float: left;
+  }
+  .main {
+    width: 75%;
+    float: right;
+  }
+
+.golyo{
+    width: 25%;
+    height: auto;
 }
 
 
+  #container{
+    width: 100%;
+  }
 
 
-    
- 
-     
- 
-.lottó{
-     font-size: 80px;
-     text-shadow: 2px 2px #000;
-   margin:auto;
-   text-align: center;
-    }
- 
- #kör{border:1px solid x00965E;
-     background-color: #00965E; 
-     color:#ffffff;
-     width: 200px; height: 100px;
-    
+  
+.col-3 {width: 25%;}
 
-     
-    border-radius: 100%; width: 150px;
-     padding-left: 10%;
-     padding-right: 30%;
-    padding-bottom: 20%;
-    padding-top: 20%; 
-
-     border-radius: 100%; width: 90px; 
-     
-     
-     
-   
-
- }
-    
- 
-     
- 
- .koreslotto{
-     padding-bottom: 20px;
-     padding-left: 150px;
-     padding-top: 90px;
- }
-.jobb{
-     width: 25cm;
-   padding-top: 5px;
-     font-size: 40px;
-     padding-left: 700px ;
-     }
+.col-9 {width: 75%;}
 
 
- 
-
-
- 
- 
- 
-sidebar-left {
-     height: 100%;
-     width: 500px;
-     position: fixed;
-     z-index: 1;
-     top: 100;
-     left: 1;
-    /* background-color: #424242;*/
-     overflow-x: hidden;
-    
-   }
-   
-   sidebar-left {
-     height: auto;
-     width: 600px;
-     position:fixed;
-     z-index: 1;
-     top: 100;
-     left: 1;
-    /* background-color: #424242;*/
-     overflow-x: hidden;
-     padding-bottom: 40px;
-    
-    
-   }
-   
-   sidebar-left a {
-     padding: 6px 8px 6px 16px;
-     text-decoration: none;
-     font-size: 25px;
-     color: #f1f1f1;
-     display: block;
-    
-   }
-   
-   sidevar-left a:hover {
-     color: #f1f1f1;
-   }
-   
-.tablazat{
-     border: solid;
-     background-color:#424242;
-     border-color: #424242;
-     width:700px;
-     height:500px;
-     padding-left: 30px;
-     padding-right: 30px;
-     padding-bottom: 50px;
-     font-family: Arial, Helvetica, sans-serif;
-     
+table{
+  margin-top: 20px;
 }
 
 td{
-     border-bottom: groove
-     #777777
+  border-bottom: groove
+  #777777;
+  height: 60px;
+}
+.lotto{
+      font-size: 30px;
+      text-shadow: 2px 2px #000;
+      font-size:5vw;
+      text-align: center;
+   ;}
+
+
+#id_0 {text-align: center;
+  position: relative;
+  border-radius: 50%;
+  width: 55%;
+  height: auto;
+  padding-bottom: 17.5%;
+  padding-top: 17.5%;
+  margin-left: 20%;
+ 
+  background-color: #00965E; 
+     color:#ffffff;
      
+
+     
+    
+    
+  }
+
+  .golyo{
+    width: 6vw;
+    float: left;
+    position: relative;
+    left: 3.5vw;
+    top: -6vw;
+}
+
+.fajta{
+    float: left;
+    position: relative;
+    top: -4vw;
+}
+.db{
+    top: -5.4vw;
+    left: 20%;
+    position: relative;
+    font-size: 200%;
+}
+
+.elhelyezes{
+    left: -1%;
+}
+.elhelyezes2{
+    left: 18%
 }
 
 
 
-.szam{
-     position: absolute;
-     word-spacing: 97px;
-    font-size: 35px;
-    padding-left: 215px;
-     padding-top: 97px;
-     font-weight: bold;
+#bold{
+  font-weight: bold;
+}
+ 
+.kep{
+  margin-top: 50px;
 }
 
- 
- 
- .golyo {
-     width: 150px;
-     height: auto;
-     padding-left: 150px;
-     padding-top: 80px;
-     }
 
-     .hashtag{
-          position: absolute;
-          word-spacing: 97px;
-         font-size: 100px;
-     }
-
-     .huszonkilenc{
-          position: absolute;
-          word-spacing: 97px;
-         font-size: 35px;
-         padding-left: 207px;
-          padding-top: 97px;
-         font-weight: bold;
-     }
-
-     .db{
-          position: absolute;
-         
-         font-size: 70px;
-         padding-left: 400px;
-         padding-top: 45px;
-
-     }
-     
-     #hatter{
-          position: absolute; 
-      
-           top: 0px; 
-          left: 0px; 
-          z-index: -1;
-         
-          
-          
-     }
-     
-     #hatter img{
-     width: 600px;
-     height: 500px;
-     }

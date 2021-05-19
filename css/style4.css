@@ -1,213 +1,149 @@
-html{
-
-     top:0;
-     bottom:0;
-     left:0;
-     right:0;
-     height: 100%;
-     width: 1200px;
-     }
-     
-img{
-     width:100%;
-     max-width:100%;
-     height:auto;
-}
-
 body{
      font-family: Arial, Helvetica, sans-serif;
-          top:0;
-          bottom:0;
-          left:0;
-          right:0;
-          height: 100%;
-width: 1200px;
-    
 }
 
-
-
-.feher{
-     color: white;
+#nav {
+     position: fixed;
+     left: 0;
+     width: 25%;
+     height: 100%;
+     background-color: #424242;
      
-}
-
-
-
-.lottó{
-     font-size: 80px;
-     text-shadow: 2px 2px #000;
-   margin:auto;
-   text-align: center;
-    }
- 
- #kör{border:1px solid x00965E;
-     background-color: #00965E; 
-     color:#ffffff;
-     width: 200px; height: 100px;
-    
-
-     
-    border-radius: 100%; width: 150px;
-     padding-left: 10%;
-     padding-right: 30%;
-    padding-bottom: 20%;
-    padding-top: 20%; 
-
-     border-radius: 100%; width: 90px; 
-     
-     
-     
-   
-
- }
-    
- 
-     
- 
- .koreslotto{
-     padding-bottom: 20px;
-     padding-left: 150px;
-     padding-top: 160px;
-     
- }
-.jobb{
-     width: 25cm;
-  
-     font-size: 40px;
-     padding-left: 750px ;
-     }
-
-
- 
-     
-     
- 
-  
-
- 
-  
- 
- 
- .golyo img {
-     width: 15%;
-     height: auto;
-
- }
-
-
-     .golyo3 {
-          width: 25cm;
-        padding-bottom: 1700px;
-          font-size: 40px;
-          padding-left: 750px ;
-          
-          }
- .golyo3 img {
-     width: 15%;
-     height: auto;}
- a{
-     text-decoration-line: none;
-     color: white;
- }
-
- #p1{
-
-    position: absolute;
-    
-   word-spacing: 97px;
-    width: 25cm;
-    padding-top:10px;
-      padding-left: 62px;
-      font-size: 40px;
-      float:right 
-
-      
-      
- }
-
- #p2{
-  
-    position: absolute;
-    
-   word-spacing: 97px;
-    width: 25cm;
-    padding-top:10px;
-      padding-left: 50px;
-      font-size: 40px;
-      float:right 
-
-    
- }
- #p3{
-  
+   }
+   #nav img {
+     width: 100%;
      position: absolute;
+     top: 0px; 
+   left: 0px; 
+   z-index: -1;
+   }
+   #nav td {
+     height: 40px; 
+     border-bottom: #777777  groove;
+     padding: 0 0 0 20px;
+     width: 20%;
      
-    word-spacing: 110px;
-     width: 25cm;
-     padding-top:8px;
-       padding-left: 62px;
-       font-size: 40px;
-       float:right }
-
-       sidebar-left {
-          height: auto;
-          width: 600px;
-          position:fixed;
-          z-index: 1;
-          top: 100;
-          left: 1;
-         /* background-color: #424242;*/
-          overflow-x: hidden;
-          padding-bottom: 400px;
+     
+   }
+   #nav td a {
+     text-decoration: none;
+     color: white;
+   }
+   #main {
+     position: fixed;
+     right: 0;
+     height: 100%;
+     width: 75%;
+   }
+   body{
+     width: 100%;
+   }
+   
+   
+   
+   .menu {
+       width: 25%;
+       float: left;
+     }
+     .main {
+       width: 75%;
+       float: right;
+     }
+   
+   .golyo{
+       width: 25%;
+       height: auto;
+   }
+   
+   
+     #container{
+       width: 100%;
+     }
+   
+   
+     
+   .col-3 {width: 25%;}
+   
+   .col-9 {width: 75%;}
+   
+   
+   table{
+     margin-top: 20px;
+   }
+   
+   td{
+     border-bottom: groove
+     #777777;
+     height: 60px;
+   }
+   .lotto{
+         font-size: 30px;
+         text-shadow: 2px 2px #000;
+         font-size:5vw;
+         text-align: center;
+      ;}
+   
+   
+   #id_0 {text-align: center;
+     position: relative;
+     border-radius: 50%;
+     width: 55%;
+     height: auto;
+     padding-bottom: 17.5%;
+     padding-top: 17.5%;
+     margin-left: 20%;
+    
+     background-color: #00965E; 
+        color:#ffffff;
+        
+   
+        
        
-         
-        }
-        
-        sidebar-left a {
-          padding: 6px 8px 6px 16px;
-          text-decoration: none;
-          font-size: 25px;
-          color: #f1f1f1;
-          display: block;
-         
-        }
-        
-        sidevar-left a:hover {
-          color: #f1f1f1;
-        }
-        
-     .tablazat{
-          border: solid;
-          background-color:#424242;
-          border-color: #424242;
-          width:700px;
-          height:500px;
-          padding-left: 30px;
-          padding-right: 30px;
-          padding-bottom: 50px;
-          font-family: Arial, Helvetica, sans-serif;
-          
+       
      }
-     
-     td{
-          border-bottom: groove
-          #777777
-          
-     }
-      
-     #hatter{
-          position: absolute; 
-      
-           top: 0px; 
-          left: 0px; 
-          z-index: -1;
-         
-          
-          
-     }
-     
-     #hatter img{
-     width: 600px;
-     height: 500px;
-     }
+   
+     .bent{
+       top: 100%;
+       left: -49%;
+       float: left;
+       position: relative;
+       font-weight: bold;
+       transform: translateY(100%);
+       margin-left: 7.6%;
+       font-size: 1.25vw;
+       
+       
+   }
+   hr{
+     border-color: black;
+     margin-right: 20%;
+   }
+   
+   #ures{
+     margin-top: 20%;
+   }
+   
+   .szam{
+     width: 9%;
+     float: left;
+   padding: -0.1%;
+     margin-bottom: 7%;
+     min-width: 1vw;
+   
+   }
+   
+   #adatok:after{
+     display: fixed;
+     clear: both;
+   }
+   
+   #tartalom{
+     position: fixed;
+     left: 32%;
+     top: 5%;
+     font-size: 1.3vw;
+   }
+
+   #masodik{
+        margin-right: 15%;
+   }

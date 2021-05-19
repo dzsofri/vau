@@ -1,186 +1,29 @@
-html{
-
-     top:0;
-     bottom:0;
-     left:0;
-     right:0;
-     height: 100%;
-     width: 1200px;
-     }
-     
-body{
-     font-family: Arial, Helvetica, sans-serif;
-          top:0;
-          bottom:0;
-          left:0;
-          right:0;
-          height: 100%;
-width: 1200px;
-    
-}
 
 
-
-.feher{
-     color: white;
-     
-}
-
-
-
-.lottó{
-     font-size: 80px;
-     text-shadow: 2px 2px #000;
-   margin:auto;
-   text-align: center;
-    }
- 
- #kör{border:1px solid x00965E;
-     background-color: #00965E; 
-     color:#ffffff;
-     width: 200px; height: 100px;
-    
-
-     
-    border-radius: 100%; width: 150px;
-     padding-left: 10%;
-     padding-right: 30%;
-    padding-bottom: 20%;
-    padding-top: 20%; 
-
-     border-radius: 100%; width: 90px; 
-     
-     
-     
-   
-
- }
-    
- 
-     
- 
- .koreslotto{
-     padding-bottom: 20px;
-     padding-left: 150px;
-     padding-top: 90px;
- }
-.jobb{
-     width: 25cm;
-   padding-top: 5px;
-     font-size: 40px;
-     padding-left: 700px ;
-     }
-
-
- 
-     
-     
- 
-  
-
- 
-  
- 
- 
- .golyo img {
-     width: 15%;
-     height: auto;
-
+ body{
+      font-family: Arial, Helvetica, sans-serif;
  }
 
- a{
-     text-decoration-line: none;
-     color: white;
+ #ur{
+     margin-top: 5%;
  }
-
- #p1{
-
-    position: absolute;
-    
-   word-spacing: 101px;
-    width: 25cm;
-    padding-top:10px;
-      padding-left: 57px;
-      font-size: 40px;
-      float:right 
-
-      
-      
- }
-
- #p2{
-  
-    position: absolute;
-    
-   word-spacing: 101px;
-    width: 25cm;
-    padding-top:10px;
-      padding-left: 57px;
-      font-size: 40px;
-      float:right 
-
-    
- }
-
-sidebar-left {
-     background: url("img/hatter.jpg") no-repeat scroll left top transparent;
-     height: auto;
-     width: 600px;
-     position:fixed;
-     z-index: 1;
-     top: 100;
-     left: 1;
-    /* background-color: #424242;*/
-     overflow-x: hidden;
-     padding-bottom: 40px;
-    
-    
-   }
-   
-   sidebar-left a {
-     padding: 6px 8px 6px 16px;
-     text-decoration: none;
-     font-size: 25px;
-     color: #f1f1f1;
-     display: block;
-    
-   }
-   
-   sidevar-left a:hover {
-     color: #f1f1f1;
-   }
-   
-.tablazat{
-     border: solid;
-     background-color:#424242;
-     border-color: #424242;
-     width:700px;
-     height:500px;
-     padding-left: 30px;
-     padding-right: 30px;
-     padding-bottom: 50px;
-     font-family: Arial, Helvetica, sans-serif;
-     
-}
-
-td{
-     border-bottom: groove
-     #777777
-     
-}
-
-#hatter{
-     position: absolute; 
  
-      top: 0px; 
-     left: 0px; 
-     z-index: -1;
-    
-     
-     
-}
-
-#hatter img{
-width: 600px;
-height: 500px;
-}
+ #bent1{
+     left: -34.9vw;
+ }
+ 
+ #bent2{
+     left: -34.25vw;
+ }
+ 
+ #bent3{
+     left: -33.95vw;
+ }
+ 
+ #bent4{
+     left: -33.92vw;
+ }
+ 
+ #bent5{
+     left: -33.92vw;
+ }
