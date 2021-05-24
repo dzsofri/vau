@@ -1,4 +1,4 @@
-body{font-family: Arial, Helvetica, sans-serif;}
+
 #nav {
   position: fixed;
   left: 0;
@@ -102,14 +102,14 @@ td{
 
   .bent{
     top: 100%;
-    left: -49%;
+    left: -48.6%;
     float: left;
     position: relative;
     font-weight: bold;
     transform: translateY(100%);
-    margin-left: 7.6%;
+    margin-left: 6.9%;
     font-size: 1.25vw;
-    
+    margin-top: 0.3%;
     
 }
 hr{
@@ -124,7 +124,7 @@ hr{
 .szam{
   width: 9%;
   float: left;
-padding: 0.3%;
+padding: 0.2%;
   margin-bottom: 7%;
   min-width: 1vw;
 }
@@ -139,4 +139,9 @@ padding: 0.3%;
   left: 32%;
   top: 5%;
   font-size: 1.3vw;
+}
+
+#korábbi{
+  font-weight: bold;
+  font-size: 250%;
 }

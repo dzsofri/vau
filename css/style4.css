@@ -1,6 +1,4 @@
-body{
-     font-family: Arial, Helvetica, sans-serif;
-}
+
 
 #nav {
      position: fixed;
@@ -104,12 +102,12 @@ body{
    
      .bent{
        top: 100%;
-       left: -49%;
+       left: -48.6%;
        float: left;
        position: relative;
        font-weight: bold;
        transform: translateY(100%);
-       margin-left: 7.6%;
+       margin-left: 6.9%;
        font-size: 1.25vw;
        
        
@@ -147,3 +145,8 @@ body{
    #masodik{
         margin-right: 15%;
    }
+
+   h2{
+     font-weight: bold;
+   }
+

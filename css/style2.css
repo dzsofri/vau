@@ -1,4 +1,4 @@
-body{font-family: Arial, Helvetica, sans-serif;}
+
 
 #nav {
   position: fixed;
@@ -111,7 +111,9 @@ td{
 .fajta{
     float: left;
     position: relative;
-    top: -4vw;
+    top: -4.1vw;
+    font-weight: bold;
+    font-size: 110%;
 }
 .db{
     top: -5.4vw;
@@ -133,8 +135,20 @@ td{
   font-weight: bold;
 }
  
-.kep{
+
+
+
+.harmadik{
+font-weight: bold;
+margin-top: 50px;
+}
+
+.masodik{
+  font-weight: bold;
   margin-top: 50px;
 }
 
-
+.elso{
+  font-weight: bold;
+  margin-top: 50px;
+}
