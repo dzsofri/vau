@@ -84,7 +84,7 @@ A navigációs sáv pontjaira rákattintva (linkek segítségével) az aloldalak
    elrendezés
  >   
 
-# 2021.05.05-10
+# 2021.05.19-26
   
 **5.rész elkészítése elcsúszás javítása**
   > legkisebb_osszegu_szamsorok.html (Legkisebb összegű számsorok)
