@@ -57,3 +57,46 @@ A navigációs sáv pontjaira rákattintva (linkek segítségével) az aloldalak
 >  +képek 
 >  
 > Dokumentáció pontosítása
+
+# 2021.05.05-10
+  
+**4.rész elkészítése**
+  > leghosszabb sorozatok.html (Leghoszabb sorozatok számsorokban)
+    Három egymást követő szám
+    Három egymást követő szám
+    Három egymást követő szám
+ >   
+>  +CSS style4.css
+>  
+>  +képek 
+>  
+>Reszponzivítás elkészítése I. rész ("próbálkozás")
+>CSS kód újraírás (reszponzív oldal + átláthatóság érdekében)
+>Excel számolás
+
+
+# 2021.05.10-19
+  
+**javítás**
+ >hibák korrigálása
+   hibás pusholás
+   reszponzivitás
+   elrendezés
+ >   
+
+# 2021.05.19-26
+  
+**5.rész elkészítése elcsúszás javítása**
+  > legkisebb_osszegu_szamsorok.html (Legkisebb összegű számsorok)
+    Összeg
+    Összeg
+    Összeg
+ >   
+>  +CSS hozzácsatolás (nem volt szükség újra)
+>  
+>  +képek 
+>  
+>Dokumentáció pótlása
+
+
+
