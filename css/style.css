@@ -1,4 +1,6 @@
-
+html {
+  scroll-behavior: smooth;
+}
 #nav {
   position: fixed;
   left: 0;
@@ -145,3 +147,15 @@ padding: 0.2%;
   font-weight: bold;
   font-size: 250%;
 }
+
+.grafikonok{
+  width:40%;
+}
+.graf{
+  width: 20px;
+}
+
+.kep{
+  font-size: 200%;
+}
+
