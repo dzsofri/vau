@@ -149,4 +149,18 @@
    h2{
      font-weight: bold;
    }
-
+#kep1{
+  margin-left: 500px;
+  width: 30%;
+  height: 10%;
+}
+#kep2{
+  margin-left: 500px;
+  width: 30%;
+  height: 10%;
+}
+#kep3{
+  margin-left: 500px;
+  width: 100px;
+  height: 10%;
+}
