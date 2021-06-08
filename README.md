@@ -61,7 +61,7 @@ A navigációs sáv pontjaira rákattintva (linkek segítségével) az aloldalak
 # 2021.05.05-10
   
 **4.rész elkészítése**
-  > leghosszabb sorozatok.html (Leghoszabb sorozatok számsorokban)
+  > leghosszabb_sorozatok_4.html (Leghoszabb sorozatok számsorokban)
     Három egymást követő szám
     Három egymást követő szám
     Három egymást követő szám
@@ -87,7 +87,7 @@ A navigációs sáv pontjaira rákattintva (linkek segítségével) az aloldalak
 # 2021.05.19-26
   
 **5.rész elkészítése elcsúszás javítása**
-  > legkisebb_osszegu_szamsorok.html (Legkisebb összegű számsorok)
+  > legkisebb_osszegu_szamsorok_5.html (Legkisebb összegű számsorok)
     Összeg
     Összeg
     Összeg
@@ -99,4 +99,36 @@ A navigációs sáv pontjaira rákattintva (linkek segítségével) az aloldalak
 >Dokumentáció pótlása
 
 
+# 2021.05.26-06.02
+  
+**6.rész elkészítése elcsúszás javítása**
+  > grafikonok_6.html (Grafikonok)
+    Grafikon1
+    Grafikon2
+    Grafikon3
+ >   
+>  +CSS hozzácsatolás (nem volt szükség újra írni csak új id, class címke létrehozása, alkalmazása)
+>  
+>  +képek 
+>
+> excel számolás
+
+# 2021 06.02-09
+
+**7.rész elkészítése elcsúszás javítása**
+  > erdekes_tortenetek_7.html (Étrdekes történetek)
+    Történet1
+    Történet2
+ >   
+>  +CSS hozzácsatolás (nem volt szükség újra írni csak új id, class címke létrehozása, alkalmazása)
+>  
+>  +képek 
+>
+> történet keresése
+>
+> [forrás](https://www.szuperlotto.com/hu/lottery-news/article/4180/érdekes-és-különleges-lottó-nyeremények.html).
+>
+>Dokumentáció pótlása
+>
+>**Projekt lezárársa**
 
