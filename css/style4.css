@@ -105,7 +105,7 @@
        left: -48.6%;
        float: left;
        position: relative;
-       font-weight: bold;
+       font-weight: bold; 
        transform: translateY(100%);
        margin-left: 6.9%;
        font-size: 1.25vw;
@@ -149,6 +149,18 @@
    h2{
      font-weight: bold;
    }
-  .graf{
-width: 20%;
+#kep1{
+  margin-left: 500px;
+  width: 30%;
+  height: 10%;
+}
+#kep2{
+  margin-left: 500px;
+  width: 30%;
+  height: 10%;
+}
+#kep3{
+  margin-left: 500px;
+  width: 100px;
+  height: 10%;
 }
