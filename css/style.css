@@ -159,3 +159,17 @@ padding: 0.2%;
   font-size: 200%;
 }
 
+.erdekes{
+  text-align: justify;
+  padding-right: 50%;
+}
+#erdekcim{
+  padding-top: 5%;
+}
+
+#nyero1{
+  position: fixed;
+  left: 72%;
+  top: 7%;
+  width: 20%;
+}
